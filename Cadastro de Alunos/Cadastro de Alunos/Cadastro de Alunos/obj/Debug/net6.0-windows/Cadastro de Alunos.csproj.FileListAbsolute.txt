@@ -1,0 +1,18 @@
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net6.0-windows\Cadastro de Alunos.exe
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net6.0-windows\Cadastro de Alunos.deps.json
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net6.0-windows\Cadastro de Alunos.runtimeconfig.json
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net6.0-windows\Cadastro de Alunos.dll
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\net6.0-windows\Cadastro de Alunos.pdb
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.csproj.AssemblyReference.cache
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro_de_Alunos.Form1.resources
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.csproj.GenerateResource.cache
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.AssemblyInfoInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.AssemblyInfo.cs
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.dll
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\refint\Cadastro de Alunos.dll
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.pdb
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro de Alunos.genruntimeconfig.cache
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\ref\Cadastro de Alunos.dll
+C:\Users\filipe.sdiniz\source\repos\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\net6.0-windows\Cadastro_de_Alunos.Properties.Resources.resources
