@@ -1,0 +1,18 @@
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.csproj.AssemblyReference.cache
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados_jogo.Form1.resources
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados_jogo.Properties.Resources.resources
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.csproj.GenerateResource.cache
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.AssemblyInfoInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.AssemblyInfo.cs
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.csproj.CoreCompileInputs.cache
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\bin\Debug\net6.0-windows\Dados jogo.exe
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\bin\Debug\net6.0-windows\Dados jogo.deps.json
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\bin\Debug\net6.0-windows\Dados jogo.runtimeconfig.json
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\bin\Debug\net6.0-windows\Dados jogo.dll
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\bin\Debug\net6.0-windows\Dados jogo.pdb
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.dll
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\refint\Dados jogo.dll
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.pdb
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\Dados jogo.genruntimeconfig.cache
+C:\Users\filipe.sdiniz\source\repos\Dados jogo\obj\Debug\net6.0-windows\ref\Dados jogo.dll
